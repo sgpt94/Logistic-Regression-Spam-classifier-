@@ -49,6 +49,6 @@ xi = 0 means the ith word is not in the email.
 Data is loaded from **"spamTrain.mat"** file which contains 4000 rows of preprocessed data.<br>
 The regularisation parameter(lambda) is taken as 1.<br>
 **"fminunc"** function is used for optimization of cost function<br>
-**Training Accuracy:**  99.9% <br>
-Testing data is loaded from **"spamTest.mat"** file which contains 1000 rows of preprocessed data. <br>
+**Training Accuracy:**  99.9% <br><br>
+Testing data is loaded from **"spamTest.mat"** file which contains 1000 rows of preprocessed data. <br><br>
 **Test Accuracy:**  99.1%
