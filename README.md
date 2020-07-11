@@ -1,5 +1,5 @@
 # Logistic-Regression-Spam-classifier
-### Building a spam e-mail filter using regularised Logistic Regression.
+### Train regularised Logistic Regression to classify between spam and non-spam E-mails
 #### Platform : MATLAB
 
 
